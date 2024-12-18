@@ -56,17 +56,42 @@
     
 <h3>Some of my projects:</h3>
 
-<a href="https://github.com/HJELuis/book-store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&bg_color=0d1117&text_color=ffffff&langs_count=3" />
-</a>
+<p>
+  <a href="https://github.com/HJELuis/wep-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=web-app&bg_color=0d1117&text_color=ffffff" />
+  </a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+<p>
+  <a href="https://github.com/HJELuis/library-db">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=library-db&bg_color=0d1117&text_color=ffffff" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/HJELuis/book-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&bg_color=0d1117&text_color=ffffff" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/HJELuis/pet-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=pet-app&bg_color=0d1117&text_color=ffffff" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/HJELuis/bookstore-landing-page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=bookstore-landing-page&bg_color=0d1117&text_color=ffffff" />
+  </a>
+</p>
+
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/luis-ju%C3%A1rez-full-stack-java-developer/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-al.svg"
+      alt="lnkein" height="30" width="40" /></a>
 </p>
 
 
