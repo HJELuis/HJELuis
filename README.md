@@ -61,7 +61,6 @@
     </a>      
 </p>
 
-<p>Tecnologías: </p>
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
     
 <h3 align="left">Connect with me:</h3>
