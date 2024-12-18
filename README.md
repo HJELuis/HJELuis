@@ -56,7 +56,11 @@
     alt="adam-pw" /></p>
     
 <h3>Some of my projects:</h3>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=pet-app)](https://github.com/HJELuis/pet-app)
+<p>
+    <a href="https://hjeluis.github.io/book-store/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJEluis&repo=book-store" alt="GitHub Stats" />
+    </a>    
+</p>
     
 
 <h3 align="left">Connect with me:</h3>
