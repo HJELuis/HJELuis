@@ -3,7 +3,6 @@
 
 <p align="center">I’m currently learning full-stack technologies</p> 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -62,7 +61,6 @@
     </a>    
 </p>
     
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/luis-ju%C3%A1rez-full-stack-java-developer/" target="blank"><img align="center"
