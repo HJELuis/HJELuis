@@ -54,6 +54,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HJELuis&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
+    
+<h3>Some of my projects:</h3>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=pet-app)](https://github.com/HJELuis/pet-app)
+    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
