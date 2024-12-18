@@ -58,12 +58,16 @@
 <a href="https://github.com/HJELuis/book-store">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&bg_color=0d1117&text_color=ffffff" />
 </a>
+
 <p>
     <a href="https://github.com/HJELuis/book-store">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&bg_color=0d1117&text_color=ffffff&layout=compact" />
     </a>      
 </p>
 
+<a href="https://github.com/HJELuis/book-store">
+  <img src="https://via.placeholder.com/300x150.png?text=Book+Store" alt="Book Store Repository" style="background-color:#0d1117;color:white;text-align:center;" />
+</a>
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
     
 <h3 align="left">Connect with me:</h3>
