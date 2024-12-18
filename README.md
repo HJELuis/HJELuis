@@ -57,7 +57,7 @@
 <h3>Some of my projects:</h3>
 <p>
     <a href="https://github.com/HJELuis/book-store">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&show_icons=true&bg_color=0d1117&text_color=ffffff" />
     </a>    
 </p>
     
