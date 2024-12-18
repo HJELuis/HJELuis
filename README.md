@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Enrique</h1>
 <h3 align="center">Student at EBAC.</h3>
 
-- 🌱 I’m currently learning full-stack technologies
-
+<p>I’m currently learning full-stack technologies</p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
