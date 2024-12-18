@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Enrique</h1>
 <h3 align="center">Student at EBAC.</h3>
 
-<p text-align="center">I’m currently learning full-stack technologies</p> 
+<p align="center">I’m currently learning full-stack technologies</p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,7 +44,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=HJELuis&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
