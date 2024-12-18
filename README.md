@@ -52,6 +52,9 @@
 
 <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HJELuis&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/luis-ju%C3%A1rez-full-stack-java-developer/" target="blank"><img align="center"
