@@ -55,25 +55,10 @@
     alt="adam-pw" /></p>
     
 <h3>Some of my projects:</h3>
-<a href="https://github.com/HJELuis/book-store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&bg_color=0d1117&text_color=ffffff" />
-</a>
-
-<p>
-    <a href="https://github.com/HJELuis/book-store">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&bg_color=0d1117&text_color=ffffff&layout=compact" />
-    </a>      
-</p>
 
 <a href="https://github.com/HJELuis/book-store">
-  <img src="https://via.placeholder.com/300x150.png?text=Book+Store" alt="Book Store Repository" style="background-color:#0d1117;color:white;text-align:center;" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&bg_color=0d1117&text_color=ffffff&langs_count=3" />
 </a>
-
-<a href="https://github.com/HJELuis/book-store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=book-store&bg_color=0d1117&text_color=ffffff&hide_border=true" />
-</a>
-
-[![Book Store](https://img.shields.io/badge/Repository-Book%20Store-blue?style=for-the-badge)](https://github.com/HJELuis/book-store)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
     
