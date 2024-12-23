@@ -57,7 +57,7 @@
 <h3>Some of my projects:</h3>
 
 <p>
-  <a href="https://github.com/HJELuis/wep-app">
+  <a href="https://github.com/HJELuis/web-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=web-app&bg_color=0d1117&text_color=ffffff" />
   </a>
 </p>
