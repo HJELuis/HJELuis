@@ -81,6 +81,12 @@
 </p>
 
 <p>
+  <a href="https://github.com/HJELuis/countries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=countries&bg_color=0d1117&text_color=ffffff" />
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/HJELuis/bookstore-landing-page">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HJELuis&repo=bookstore-landing-page&bg_color=0d1117&text_color=ffffff" />
   </a>
